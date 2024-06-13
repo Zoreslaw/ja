@@ -1,0 +1,16 @@
+﻿  Assembling mojadll.asm...
+mojadll.asm(38): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(39): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(40): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(41): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(42): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(45): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(46): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(47): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(48): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(49): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(51): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(52): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(53): error A2085: instruction or register not accepted in current CPU mode
+mojadll.asm(54): error A2085: instruction or register not accepted in current CPU mode
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\mojadll.obj" /W3 /errorReport:prompt  /Tamojadll.asm" exited with code 1.
